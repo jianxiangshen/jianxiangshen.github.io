@@ -11,49 +11,55 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Polymer Materials and Engineering, Beijing University of Chemical Technology, 2009
+* Ph.D in Polymer Materials and Science, Beijing University of Chemical Technology, 2014
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jul. 2014 - Dec. 2017: Lecturer
+  * Jiaxing University
+  * Duties included: Researching and Teaching
+    
+* Dec. 2017 - Now: Associate Professor
+  * Jiaxing University
+  * Duties included: Researching and Teaching
+    
+* Oct. 2019 - Oct. 2020: Visting Scholar
+  * Johannes Gutenberg-Universität Mainz
+  * Duties included: Research
+  * Supervisor: Friederike Schmid
+    
+* May. 2021 - Oct. 2023 (expected): Postdoctoral Research Associate
+  * Zhejiang University
+  * Duties included: Research
+  * Supervisor: Baoqing Shentu
   
-Skills
+Research Interest
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Structure and Thermodynamics in Polymer Nanocomposites, Polymer Networks, Polymer Blends and Polymer Solutions
+* Processing and Viscoelastic properties of Polymer Nanocomposites
+
+Awards
+======
+* First Prize of the 11th Natural Science Academic Award of Jiaxing City (1/4), 2017
+* Third Prize of the 12th Natural Science Academic Award of Jiaxing City (1/8), 2020
+* Chin-Shen Young Scholars of Jiaxing University, 2020
+* Visiting Scholar of China Scholarship Council, 2019
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Contact
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+### Address
+Office 510 \
+Chongli Building (No. 10) \
+No. 899 Guangqiong Road, Jiaxing \
+Zhejiang Province \
+P.R. China
+### Email
+shenjx@zjxu.edu.cn or shenjx@mail.zjxu.edu.cn
+
