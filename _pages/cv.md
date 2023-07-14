@@ -37,7 +37,7 @@ Work experience
 Research Interest
 ======
 * Structure and Thermodynamics in Polymer Nanocomposites, Polymer Networks, Polymer Blends and Polymer Solutions
-* Processing and Viscoelastic properties of Polymer Nanocomposites
+* Processing-Structure-Properties Relationships of Polymer Nanocomposites
 
 Awards
 ======
@@ -61,5 +61,6 @@ No. 899 Guangqiong Road, Jiaxing \
 Zhejiang Province \
 P.R. China
 ### Email
-shenjx@zjxu.edu.cn or shenjx@mail.zjxu.edu.cn
+shenjx@zjxu.edu.cn\
+shenjx@mail.zjxu.edu.cn
 
