@@ -15,4 +15,5 @@ P.R. China
 (+0086) 573-83643022
 
 ### Email
-shenjx@zjxu.edu.cn or shenjx@mail.zjxu.edu.cn
+shenjx@zjxu.edu.cn \
+shenjx@mail.zjxu.edu.cn
