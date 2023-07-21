@@ -37,9 +37,47 @@ Work experience
 Research Interest
 ======
 * Structure and Thermodynamics in Polymer Nanocomposites, Polymer Networks, Polymer Blends and Polymer Solutions
-* Processing-Structure-Properties Relationships of Polymer Nanocomposites
+* Processing and Viscoelastic properties of Polymer Nanocomposites
 
-Awards
+Funding
+======
+* (2022) Principal Investigator: Natural Science Foundation of Zhejiang Province, China (Grant No. LY22B040002)
+  * Duration 36 months
+  * Total Awarded Amount: ¥100,000
+  * Project Title: “Theoretical and Simulation Study on Topology Characteristics and Rubbery Elasticity of Polymer Networks”
+  * Status: In Progress
+  
+* (2019) Principal Investigator: the Science and Technology Research Projects of Jiaxing City, Zhejiang Province (Grant No. 2019AD32007)
+  * Duration 36 months
+  * Total Awarded Amount: ¥80,000
+  * Project Title: “Design and Preparation of High-damping Natural Rubber Composite”
+  * Status: Completed
+  
+* (2016) Principal Investigator: National Natural Science Foundation of China (Grant No. 51503081)
+  * Duration 36 months
+  * Total Awarded Amount: ¥220,000
+  * Project Title: “Micro-structural Evolution of Polymer Nanocomposites under the Tensile Deformation by Molecular Dynamics Simulation”
+  * Status: Completed
+
+* (2015) Principal Investigator: Natural Science Foundation of Zhejiang Province, China (Grant No. LQ15B040002)
+  * Duration 36 months
+  * Total Awarded Amount: ¥50,000
+  * Project Title: “Polymer Nanocomposites under the Tensile and Shear Deformation by Molecular Dynamics Simulation”
+  * Status: Completed
+  
+* (2016) Co-investigator: National Natural Science Foundation of China (Grant No. 11502096)
+  * Duration 36 months
+  * Total Awarded Amount: ¥240,000
+  * Project Title: “Mechanical Reinforcement of Carbon Fiber-Based Epoxy Composite by Orientated Graphene Oxide”
+  * Status: Completed
+
+* (2015) Co-investigator: Natural Science Foundation of Zhejiang Province, China (Grant No. LQ19E030013)
+  * Duration 36 months
+  * Total Awarded Amount: ¥100,000
+  * Project Title: “Preparation and Performance of Thermoplastic Vulcanizates Based on Polylactic Acid”
+  * Status: Completed
+
+Horors/Awards
 ======
 * First Prize of the 11th Natural Science Academic Award of Jiaxing City (1/4), 2017
 * Third Prize of the 12th Natural Science Academic Award of Jiaxing City (1/8), 2020
@@ -61,6 +99,5 @@ No. 899 Guangqiong Road, Jiaxing \
 Zhejiang Province \
 P.R. China
 ### Email
-shenjx@zjxu.edu.cn\
-shenjx@mail.zjxu.edu.cn
+shenjx@zjxu.edu.cn or shenjx@mail.zjxu.edu.cn
 
