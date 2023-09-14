@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 {% include base_path %}
-
 {% for collection in site.collections %}
 {% unless collection.output == false}
   {% capture label %}{{ collection.label }}{% endcapture %}
