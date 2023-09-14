@@ -15,9 +15,4 @@ author_profile: true
   {% capture written_label %}{{ label }}{% endcapture %}
   {% endif %}
 {% endunless %}
-{% for post in collection.docs %}
-  {% unless collection.output == false}
-  {% include archive-single.html %}
-  {% endunless %}
-{% endfor %}
 {% endfor %}
