@@ -14,5 +14,13 @@ My current research interests lie in developing and using computational techniqu
 
 News
 ======
+## Sept. 18th, 2023
+Newly accepted in Physical Chemistry Chemical Physics, recent work with atomistic MD simulations of the structural and dynamical properties of thermoplastic polyurethane/fullerene nanocomposites. [Exploring Thermodynamic and Structural Properties of Carbon Nanotube/Thermoplastic Polyurethane Nanocomposites from Atomistic Molecular Dynamics Simulations](https://pubs.rsc.org/en/content/articlelanding/2023/cp/d3cp03809b/)
+
+## Sept. 15th, 2023
+Recent study on the structure-mechanics relationship of multiblock copolymers, published in in Polymer. [Correlating structure-mechanics relationship of multiblock copolymers: Insights from molecular dynamics simulation](https://www.sciencedirect.com/science/article/abs/pii/S0032386123006870)
+
+
 ## Jul. 7th, 2023
-Newly accepted in RSC Advances, recent work with atomistic MD simulations showing how functional groups affects the structural and properties of carbon nanotube/thermoplastic polyurethane nanocomposites. [Exploring Thermodynamic and Structural Properties of Carbon Nanotube/Thermoplastic Polyurethane Nanocomposites from Atomistic Molecular Dynamics Simulations](https://pubs.rsc.org/en/content/articlelanding/2023/ra/d3ra03000h)
+Newly accepted in RSC Advances, recent work with atomistic MD simulations showing how functional groups affects the structural and properties of carbon nanotube/thermoplastic polyurethane nanocomposites. [Structural and Dynamical Properties of Thermoplastic Polyurethane/Fullerene Nanocomposites: A Molecular Dynamics Simulations Study](https://pubs.rsc.org/en/content/articlelanding/2023/ra/d3ra03000h)
+
