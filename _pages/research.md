@@ -43,6 +43,7 @@ Recent publications include:
 Thermoplastic Elastomers (TPEs), composed of both thermoplastic and elastomeric properties, offer unique advantages over conventional elastomers. Unlike thermoset elastomers, TPEs are thermoplastics that are easy to use in manufacturing processes such as injection moulding due to their ability to stretch and return to their near original shape. This creates a longer life and improved physical range when compared to other materials. Due to their two-component injection molding abilities, TPEs are used as soft grip surfaces, design elements, back-lit switches and surfaces, as well as sealings, gaskets, and damping elements. TPEs have the potential to be recycled similarly to plastics, leading to further environmental benefits. We have developed a novel bio-based thermoplastic vulcanizate (TPV) material consisting of poly(lactic acid) (PLA) and a novel polymeric slide ring material (SeRM) using isocyanate-induced dynamic vulcanization.
 ![](/images/research_figs/tpe.png)
 Recent publications include: 
+* J. Shen, et al., Phys. Chem. Chem. Phys., 25, 27352-27363 (2023). [Link]{https://doi.org/10.1039/D3CP03809B}
 * J. Shen, et al., RSC Adv., 13, 9534-9542 (2023). [Link](https://doi.org/10.1039/D3RA03000H)
 * X. Li, J. Shen, et al., RSC Adv., 12, 9534-9542 (2022). [Link](https://doi.org/10.1039/D2RA00286H)
 
