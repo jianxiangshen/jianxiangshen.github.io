@@ -29,7 +29,7 @@ Work experience
   * Duties included: Research
   * Supervisor: Friederike Schmid
     
-* May. 2021 - Oct. 2023 (expected): Postdoctoral Research Associate
+* May. 2021 - Oct. 2023: Postdoctoral Research Associate
   * Zhejiang University
   * Duties included: Research
   * Supervisor: Baoqing Shentu
