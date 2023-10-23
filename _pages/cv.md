@@ -27,12 +27,12 @@ Work experience
 * Oct. 2019 - Oct. 2020: Visting Scholar
   * Johannes Gutenberg-Universität Mainz
   * Duties included: Research
-  * Supervisor: Friederike Schmid
+  * Supervisor: Prof. Dr. Friederike Schmid
     
 * May. 2021 - Oct. 2023: Postdoctoral Research Associate
   * Zhejiang University
   * Duties included: Research
-  * Supervisor: Baoqing Shentu
+  * Supervisor: Prof. Baoqing Shentu
   
 Research Interest
 ======
