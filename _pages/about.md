@@ -19,7 +19,7 @@ News
 Recent work published in Physical Chemistry Chemical Physics, showing the effects of C<sub>60</sub> molecules inclusion on the glass transition, thermal expansion, polymer mobility, polymer–C<sub>60</sub> interactions, and diffusion behavior of C<sub>60</sub> in TPU nanocomposites. [Structural and dynamical properties of thermoplastic polyurethane/fullerene nanocomposites: a molecular dynamics simulations study](https://pubs.rsc.org/en/content/articlelanding/2023/cp/d3cp03809b)
 
 ## Sept. 15th, 2023
-Recent study on the structure-mechanics relationship of multiblock copolymers, published in Polymer. [Correlating structure-mechanics relationship of multiblock copolymers: Insights from molecular dynamics simulation](https://www.sciencedirect.com/science/article/abs/pii/S0032386123006870)
+Recent work exploring the structure-mechanics relationship of multiblock copolymers, conducted in collaboration with Prof. Jun Liu from BUCT, as published in Polymer. [Correlating structure-mechanics relationship of multiblock copolymers: Insights from molecular dynamics simulation](https://www.sciencedirect.com/science/article/abs/pii/S0032386123006870)
 
 
 ## Jul. 7th, 2023
