@@ -16,10 +16,6 @@ Education
 
 Work experience
 ======
-* Jul. 2014 - Dec. 2017: Lecturer
-  * Jiaxing University
-  * Duties included: Researching and Teaching
-    
 * Dec. 2017 - Now: Associate Professor
   * Jiaxing University
   * Duties included: Researching and Teaching
@@ -29,10 +25,15 @@ Work experience
   * Duties included: Research
   * Supervisor: Prof. Dr. Friederike Schmid
     
-* May. 2021 - Oct. 2023: Postdoctoral Research Associate
+* May. 2021 - May. 2023: Postdoctoral Research Associate
   * Zhejiang University
   * Duties included: Research
   * Supervisor: Prof. Baoqing Shentu
+
+* Jul. 2014 - Dec. 2017: Lecturer
+  * Jiaxing University
+  * Duties included: Researching and Teaching
+    
   
 Research Interest
 ======
